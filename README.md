@@ -1,0 +1,1 @@
+# Store your strong passwords locally without forgetting them every time
