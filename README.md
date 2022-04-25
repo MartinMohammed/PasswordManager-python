@@ -1,4 +1,4 @@
-# Store your strong passwords locally without forgetting them every time
+# Your personal password manager
 
 ## Previews:
 
