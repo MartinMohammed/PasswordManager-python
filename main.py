@@ -99,7 +99,7 @@ def save():
                 if website in data.keys():
                     override = messagebox.askyesno(title="Warning", message=f"{website} is already in database."
                                                                             f"\nDo you really want to override?"
-                                                                            f"\nOtherwise please lookup Credentials "
+                                                                           f"\nOtherwise please lookup Credentials "
                                                                             f"with Search function!")
                     # if user wants to override the data inside the file
                     if override:
